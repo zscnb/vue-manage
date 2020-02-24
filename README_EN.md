@@ -20,7 +20,7 @@ The web management system solution based on Vue2 and Element-UI。[live demo](ht
 
 ## Donation
 
-![WeChat](https://gitee.com/zscnb/vue-manage/blob/master/images/wxf.png)
+![WeChat](./public/images/wxf.png)
 
 ## Preface
 
