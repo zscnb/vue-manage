@@ -40,7 +40,7 @@
 
 请作者喝杯咖啡吧！(微信号：zsc1037115443)
 
-![微信扫一扫](https://gitee.com/zscnb/vue-manage/blob/master/static/img/wxf.fe74a097.png)
+![微信扫一扫](https://gitee.com/zscnb/vue-manage/blob/master/images/wxf.png)
 
 ## 特别鸣谢
 

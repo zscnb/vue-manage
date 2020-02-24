@@ -7,7 +7,7 @@ set -e
 # npm run build
 
 # 进入生成的文件夹
-cd .
+# cd ./dist
 
 # 如果是发布到自定义域名
 # echo 'www.example.com' > CNAME 
@@ -25,4 +25,4 @@ git push -f git@github.com:zscnb/vue-manage.git master
 # 如果发布到 https://<US.github.io/<REPO>
 # git push -f git@github.com:zscnb/zscnb.github.io.git master:gh-pages
 
-cd -
+# cd -
