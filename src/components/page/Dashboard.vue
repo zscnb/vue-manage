@@ -12,11 +12,11 @@
                     </div>
                     <div class="user-info-list">
                         上次登录时间：
-                        <span>2019-11-01</span>
+                        <span>2020-2-24</span>
                     </div>
                     <div class="user-info-list">
                         上次登录地点：
-                        <span>东莞</span>
+                        <span>云南.保山</span>
                     </div>
                 </el-card>
                 <el-card shadow="hover" style="height:252px;">
