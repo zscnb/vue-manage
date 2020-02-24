@@ -20,7 +20,7 @@ The web management system solution based on Vue2 and Element-UI。[live demo](ht
 
 ## Donation
 
-![WeChat](https://lin-xin.gitee.io/images/weixin.jpg)
+![WeChat](https://gitee.com/zscnb/vue-manage/blob/master/static/img/wxf.fe74a097.png)
 
 ## Preface
 
@@ -185,12 +185,12 @@ Finally,enter 'src/components/common/Sidebar.vue' and find el-menu Tags,delete '
 
 ### Default theme
 
-![Image text](https://github.com/lin-xin/manage-system/raw/master/screenshots/wms1.png)
+![Image text](https://github.com/zscnb/vue-manage/blob/master/screenshots/wms1.png)
 
 ### Green theme
 
-![Image text](https://github.com/lin-xin/manage-system/raw/master/screenshots/wms2.png)
+![Image text](https://github.com/zscnb/vue-manage/blob/master/screenshots/wms2.png)
 
 ## License
 
-[MIT](https://github.com/lin-xin/vue-manage-system/blob/master/LICENSE)
+[MIT](https://github.com/zscnb/vue-manage/blob/master/LICENSE)

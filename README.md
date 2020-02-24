@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/%24-donate-ff69b4.svg" alt="donate">
   </a>
 
-基于 Vue + Element UI 的后台管理系统解决方案。[线上地址](https://lin-xin.gitee.io/example/work/)
+基于 Vue + Element UI 的后台管理系统解决方案。[线上地址](https://zscnb.gitee.io/vue-manage)
 
 > React + Ant Design 的版本正在开发中，仓库地址：[react-manage-system](https://github.com/lin-xin/react-manage-system)
 
@@ -38,9 +38,9 @@
 
 ## 赞赏
 
-请作者喝杯咖啡吧！(微信号：linxin_20)
+请作者喝杯咖啡吧！(微信号：zsc1037115443)
 
-![微信扫一扫](https://lin-xin.gitee.io/images/weixin.jpg)
+![微信扫一扫](https://gitee.com/zscnb/vue-manage/blob/master/static/img/wxf.fe74a097.png)
 
 ## 特别鸣谢
 
@@ -194,4 +194,4 @@ import 'element-ui/lib/theme-default/index.css'; // 默认主题
 
 ## License
 
-[MIT](https://github.com/lin-xin/vue-manage-system/blob/master/LICENSE)
+[MIT](https://github.com/zscnb/vue-manage/blob/master/LICENSE)
